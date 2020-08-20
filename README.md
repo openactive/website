@@ -5,7 +5,7 @@ This repository contains version-controlled configuration for the [Redirection P
 
 ## Contribution
 
-To make changes to the redirect configuration of www.openactive.io, simply propose a PR for the change
+To make changes to the redirect configuration of www.openactive.io, simply propose a PR for the proposed change.
 
 The `master` branch represents the current state of redirects on the live website.
 
