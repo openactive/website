@@ -5,7 +5,7 @@ This repository contains version-controlled configuration for the [Redirection P
 
 ## Contribution
 
-To make changes to the redirect configuration of www.openactive.io, simply propose a PR for the proposed change.
+To make changes to the redirect configuration of www.openactive.io, simply propose a PR for the proposed change to `redirection.json`.
 
 Details of the JSON format are available in the [plugin documentation](https://redirection.me/developer/json-export/).
 
