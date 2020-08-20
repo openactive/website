@@ -9,6 +9,8 @@ To make changes to the redirect configuration of www.openactive.io, simply creat
 
 Details of the JSON format are available in the [plugin documentation](https://redirection.me/developer/json-export/).
 
+Please use the `"title"` property to describe the reason for the redirect.
+
 The `master` branch represents the current state of redirects on the live website.
 
 ## Deployment
