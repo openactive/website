@@ -14,7 +14,7 @@ The `master` branch represents the current state of redirects on the live websit
 To deploy updates to the website redirection configuration, follow the steps below:
 
 1. Download [redirection.json](/redirection.json) from the `master` branch.
-2. Delete the "Redirection" group from within the [Groups page of the Wordpress Redirection Plugin](https://www.openactive.io/wp-admin/tools.php?page=redirection.php&sub=groups).
+2. Delete the "https://github.com/openactive/website-redirection/" group from within the [Groups page of the Wordpress Redirection Plugin](https://www.openactive.io/wp-admin/tools.php?page=redirection.php&sub=groups).
 
 ![Delete existing redirections](guide-images/delete-redirects.png)
 
