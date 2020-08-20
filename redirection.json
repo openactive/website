@@ -13,7 +13,6 @@
     ],
     "redirects": [
         {
-            "id": 4,
             "url": "^/OpenActive.NET(.*)",
             "match_url": "regex",
             "match_data": {
@@ -33,11 +32,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 0,
             "enabled": true
         },
         {
-            "id": 5,
             "url": "^/accessibility-support(.*)",
             "match_url": "regex",
             "match_data": {
@@ -57,11 +54,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 1,
             "enabled": true
         },
         {
-            "id": 6,
             "url": "/activity-list/activity-list.jsonld",
             "match_url": "/activity-list/activity-list.jsonld",
             "match_data": {
@@ -81,11 +76,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 2,
             "enabled": true
         },
         {
-            "id": 8,
             "url": "^/data-catalogs(.*)",
             "match_url": "regex",
             "match_data": {
@@ -105,11 +98,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 4,
             "enabled": true
         },
         {
-            "id": 9,
             "url": "^/dataset-api-discovery(.*)",
             "match_url": "regex",
             "match_data": {
@@ -129,11 +120,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 5,
             "enabled": true
         },
         {
-            "id": 10,
             "url": "^/examples(.*)",
             "match_url": "regex",
             "match_data": {
@@ -153,11 +142,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 6,
             "enabled": true
         },
         {
-            "id": 11,
             "url": "^/modelling-opportunity-data(.*)",
             "match_url": "regex",
             "match_data": {
@@ -177,11 +164,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 7,
             "enabled": true
         },
         {
-            "id": 12,
             "url": "^/ns-beta(.*)",
             "match_url": "regex",
             "match_data": {
@@ -201,11 +186,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 8,
             "enabled": true
         },
         {
-            "id": 13,
             "url": "^/extensions(.*)",
             "match_url": "regex",
             "match_data": {
@@ -225,11 +208,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 9,
             "enabled": true
         },
         {
-            "id": 14,
             "url": "^/ns-extension(.*)",
             "match_url": "regex",
             "match_data": {
@@ -249,11 +230,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 10,
             "enabled": true
         },
         {
-            "id": 15,
             "url": "^/ns(.*)",
             "match_url": "regex",
             "match_data": {
@@ -273,11 +252,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 11,
             "enabled": true
         },
         {
-            "id": 16,
             "url": "^/open-booking-api(.*)",
             "match_url": "regex",
             "match_data": {
@@ -297,11 +274,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 12,
             "enabled": true
         },
         {
-            "id": 17,
             "url": "^/openactive-w3c-cg(.*)",
             "match_url": "regex",
             "match_data": {
@@ -321,11 +296,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 13,
             "enabled": true
         },
         {
-            "id": 18,
             "url": "^/opportunity-data-primer(.*)",
             "match_url": "regex",
             "match_data": {
@@ -345,11 +318,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 14,
             "enabled": true
         },
         {
-            "id": 19,
             "url": "^/programmes(.*)",
             "match_url": "regex",
             "match_data": {
@@ -369,11 +340,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 15,
             "enabled": true
         },
         {
-            "id": 20,
             "url": "^/public-openactive-w3c(.*)",
             "match_url": "regex",
             "match_data": {
@@ -393,11 +362,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 16,
             "enabled": true
         },
         {
-            "id": 21,
             "url": "^/realtime-paged-data-exchange(.*)",
             "match_url": "regex",
             "match_data": {
@@ -417,11 +384,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 17,
             "enabled": true
         },
         {
-            "id": 22,
             "url": "^/routes(.*)",
             "match_url": "regex",
             "match_data": {
@@ -441,11 +406,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 18,
             "enabled": true
         },
         {
-            "id": 23,
             "url": "^/skos.js(.*)",
             "match_url": "regex",
             "match_data": {
@@ -465,11 +428,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 19,
             "enabled": true
         },
         {
-            "id": 24,
             "url": "^/test-interface(.*)",
             "match_url": "regex",
             "match_data": {
@@ -489,11 +450,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 20,
             "enabled": true
         },
         {
-            "id": 25,
             "url": "/endpoint-validator/",
             "match_url": "/endpoint-validator",
             "match_data": {
@@ -513,11 +472,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 21,
             "enabled": true
         },
         {
-            "id": 26,
             "url": "^/learn(?!\\.html).*",
             "match_url": "regex",
             "match_data": {
@@ -537,11 +494,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 22,
             "enabled": true
         },
         {
-            "id": 27,
             "url": "/blog.html",
             "match_url": "/blog.html",
             "match_data": {
@@ -561,11 +516,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 23,
             "enabled": true
         },
         {
-            "id": 28,
             "url": "/participate.html",
             "match_url": "/participate.html",
             "match_data": {
@@ -585,11 +538,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 24,
             "enabled": true
         },
         {
-            "id": 29,
             "url": "/join.html",
             "match_url": "/join.html",
             "match_data": {
@@ -609,11 +560,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 25,
             "enabled": true
         },
         {
-            "id": 30,
             "url": "/subscribe.html",
             "match_url": "/subscribe.html",
             "match_data": {
@@ -633,11 +582,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 26,
             "enabled": true
         },
         {
-            "id": 31,
             "url": "/about-openactive/",
             "match_url": "/about-openactive",
             "match_data": {
@@ -657,11 +604,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 27,
             "enabled": true
         },
         {
-            "id": 32,
             "url": "/about-openactive/digital-guiding-principles.html",
             "match_url": "/about-openactive/digital-guiding-principles.html",
             "match_data": {
@@ -681,11 +626,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 28,
             "enabled": true
         },
         {
-            "id": 33,
             "url": "/accelerator/",
             "match_url": "/accelerator",
             "match_data": {
@@ -705,11 +648,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 29,
             "enabled": true
         },
         {
-            "id": 34,
             "url": "/booking-system-guidance/",
             "match_url": "/booking-system-guidance",
             "match_data": {
@@ -729,11 +670,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 30,
             "enabled": true
         },
         {
-            "id": 35,
             "url": "/booking-system/",
             "match_url": "/booking-system",
             "match_data": {
@@ -753,11 +692,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 31,
             "enabled": true
         },
         {
-            "id": 36,
             "url": "/bookingsystems/athliit.html",
             "match_url": "/bookingsystems/athliit.html",
             "match_data": {
@@ -777,11 +714,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 32,
             "enabled": true
         },
         {
-            "id": 37,
             "url": "/bookingsystems/bookeo.html",
             "match_url": "/bookingsystems/bookeo.html",
             "match_data": {
@@ -801,11 +736,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 33,
             "enabled": true
         },
         {
-            "id": 38,
             "url": "/bookingsystems/bookingbug.html",
             "match_url": "/bookingsystems/bookingbug.html",
             "match_data": {
@@ -825,11 +758,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 34,
             "enabled": true
         },
         {
-            "id": 39,
             "url": "/bookingsystems/bookwhen.html",
             "match_url": "/bookingsystems/bookwhen.html",
             "match_data": {
@@ -849,11 +780,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 35,
             "enabled": true
         },
         {
-            "id": 40,
             "url": "/bookingsystems/brightlime.html",
             "match_url": "/bookingsystems/brightlime.html",
             "match_data": {
@@ -873,11 +802,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 36,
             "enabled": true
         },
         {
-            "id": 41,
             "url": "/bookingsystems/british-cycling-lets-ride.html",
             "match_url": "/bookingsystems/british-cycling-lets-ride.html",
             "match_data": {
@@ -897,11 +824,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 37,
             "enabled": true
         },
         {
-            "id": 42,
             "url": "/bookingsystems/clarity-live.html",
             "match_url": "/bookingsystems/clarity-live.html",
             "match_data": {
@@ -921,11 +846,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 38,
             "enabled": true
         },
         {
-            "id": 43,
             "url": "/bookingsystems/classfinder.html",
             "match_url": "/bookingsystems/classfinder.html",
             "match_data": {
@@ -945,11 +868,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 39,
             "enabled": true
         },
         {
-            "id": 44,
             "url": "/bookingsystems/club-buzz.html",
             "match_url": "/bookingsystems/club-buzz.html",
             "match_data": {
@@ -969,11 +890,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 40,
             "enabled": true
         },
         {
-            "id": 45,
             "url": "/bookingsystems/clubspark.html",
             "match_url": "/bookingsystems/clubspark.html",
             "match_data": {
@@ -993,11 +912,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 41,
             "enabled": true
         },
         {
-            "id": 46,
             "url": "/bookingsystems/delta-computer-services.html",
             "match_url": "/bookingsystems/delta-computer-services.html",
             "match_data": {
@@ -1017,11 +934,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 42,
             "enabled": true
         },
         {
-            "id": 47,
             "url": "/bookingsystems/ez-runner.html",
             "match_url": "/bookingsystems/ez-runner.html",
             "match_data": {
@@ -1041,11 +956,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 43,
             "enabled": true
         },
         {
-            "id": 48,
             "url": "/bookingsystems/flex.html",
             "match_url": "/bookingsystems/flex.html",
             "match_data": {
@@ -1065,11 +978,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 44,
             "enabled": true
         },
         {
-            "id": 49,
             "url": "/bookingsystems/fynder.html",
             "match_url": "/bookingsystems/fynder.html",
             "match_data": {
@@ -1089,11 +1000,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 45,
             "enabled": true
         },
         {
-            "id": 50,
             "url": "/bookingsystems/gladstone.html",
             "match_url": "/bookingsystems/gladstone.html",
             "match_data": {
@@ -1113,11 +1022,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 46,
             "enabled": true
         },
         {
-            "id": 51,
             "url": "/bookingsystems/gomembership.html",
             "match_url": "/bookingsystems/gomembership.html",
             "match_data": {
@@ -1137,11 +1044,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 47,
             "enabled": true
         },
         {
-            "id": 52,
             "url": "/bookingsystems/goodgym.html",
             "match_url": "/bookingsystems/goodgym.html",
             "match_data": {
@@ -1161,11 +1066,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 48,
             "enabled": true
         },
         {
-            "id": 53,
             "url": "/bookingsystems/legend.html",
             "match_url": "/bookingsystems/legend.html",
             "match_data": {
@@ -1185,11 +1088,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 49,
             "enabled": true
         },
         {
-            "id": 54,
             "url": "/bookingsystems/makesweat.html",
             "match_url": "/bookingsystems/makesweat.html",
             "match_data": {
@@ -1209,11 +1110,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 50,
             "enabled": true
         },
         {
-            "id": 55,
             "url": "/bookingsystems/membr.html",
             "match_url": "/bookingsystems/membr.html",
             "match_data": {
@@ -1233,11 +1132,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 51,
             "enabled": true
         },
         {
-            "id": 56,
             "url": "/bookingsystems/mindbody.html",
             "match_url": "/bookingsystems/mindbody.html",
             "match_data": {
@@ -1257,11 +1154,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 52,
             "enabled": true
         },
         {
-            "id": 57,
             "url": "/bookingsystems/nemysis.html",
             "match_url": "/bookingsystems/nemysis.html",
             "match_data": {
@@ -1281,11 +1176,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 53,
             "enabled": true
         },
         {
-            "id": 58,
             "url": "/bookingsystems/open-objects.html",
             "match_url": "/bookingsystems/open-objects.html",
             "match_data": {
@@ -1305,11 +1198,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 54,
             "enabled": true
         },
         {
-            "id": 59,
             "url": "/bookingsystems/open-sessions.html",
             "match_url": "/bookingsystems/open-sessions.html",
             "match_data": {
@@ -1329,11 +1220,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 55,
             "enabled": true
         },
         {
-            "id": 60,
             "url": "/bookingsystems/openplay.html",
             "match_url": "/bookingsystems/openplay.html",
             "match_data": {
@@ -1353,11 +1242,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 56,
             "enabled": true
         },
         {
-            "id": 61,
             "url": "/bookingsystems/pitchero.html",
             "match_url": "/bookingsystems/pitchero.html",
             "match_data": {
@@ -1377,11 +1264,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 57,
             "enabled": true
         },
         {
-            "id": 62,
             "url": "/bookingsystems/playwaze.html",
             "match_url": "/bookingsystems/playwaze.html",
             "match_data": {
@@ -1401,11 +1286,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 58,
             "enabled": true
         },
         {
-            "id": 63,
             "url": "/bookingsystems/race-nation.html",
             "match_url": "/bookingsystems/race-nation.html",
             "match_data": {
@@ -1425,11 +1308,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 59,
             "enabled": true
         },
         {
-            "id": 64,
             "url": "/bookingsystems/spawtz.html",
             "match_url": "/bookingsystems/spawtz.html",
             "match_data": {
@@ -1449,11 +1330,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 60,
             "enabled": true
         },
         {
-            "id": 65,
             "url": "/bookingsystems/sport-80.html",
             "match_url": "/bookingsystems/sport-80.html",
             "match_data": {
@@ -1473,11 +1352,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 61,
             "enabled": true
         },
         {
-            "id": 66,
             "url": "/bookingsystems/sportstarta.html",
             "match_url": "/bookingsystems/sportstarta.html",
             "match_data": {
@@ -1497,11 +1374,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 62,
             "enabled": true
         },
         {
-            "id": 67,
             "url": "/bookingsystems/sportsuite.html",
             "match_url": "/bookingsystems/sportsuite.html",
             "match_data": {
@@ -1521,11 +1396,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 63,
             "enabled": true
         },
         {
-            "id": 68,
             "url": "/bookingsystems/table-tennis-365.html",
             "match_url": "/bookingsystems/table-tennis-365.html",
             "match_data": {
@@ -1545,11 +1418,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 64,
             "enabled": true
         },
         {
-            "id": 69,
             "url": "/bookingsystems/teamup.html",
             "match_url": "/bookingsystems/teamup.html",
             "match_data": {
@@ -1569,11 +1440,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 65,
             "enabled": true
         },
         {
-            "id": 70,
             "url": "/bookingsystems/upshot.html",
             "match_url": "/bookingsystems/upshot.html",
             "match_data": {
@@ -1593,11 +1462,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 66,
             "enabled": true
         },
         {
-            "id": 71,
             "url": "/bookingsystems/views.html",
             "match_url": "/bookingsystems/views.html",
             "match_data": {
@@ -1617,11 +1484,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 67,
             "enabled": true
         },
         {
-            "id": 72,
             "url": "/bookingsystems/xn.html",
             "match_url": "/bookingsystems/xn.html",
             "match_data": {
@@ -1641,11 +1506,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 68,
             "enabled": true
         },
         {
-            "id": 73,
             "url": "/bookingsystems/zingfit.html",
             "match_url": "/bookingsystems/zingfit.html",
             "match_data": {
@@ -1665,11 +1528,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 69,
             "enabled": true
         },
         {
-            "id": 74,
             "url": "/case_studies/active-newham.html",
             "match_url": "/case_studies/active-newham.html",
             "match_data": {
@@ -1689,11 +1550,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 70,
             "enabled": true
         },
         {
-            "id": 75,
             "url": "/case_studies/get-active-london.html",
             "match_url": "/case_studies/get-active-london.html",
             "match_data": {
@@ -1713,11 +1572,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 71,
             "enabled": true
         },
         {
-            "id": 76,
             "url": "/case_studies/my-local-pitch.html",
             "match_url": "/case_studies/my-local-pitch.html",
             "match_data": {
@@ -1737,11 +1594,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 72,
             "enabled": true
         },
         {
-            "id": 77,
             "url": "/case_studies/our-parks.html",
             "match_url": "/case_studies/our-parks.html",
             "match_data": {
@@ -1761,11 +1616,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 73,
             "enabled": true
         },
         {
-            "id": 78,
             "url": "/case_studies/playfinder.html",
             "match_url": "/case_studies/playfinder.html",
             "match_data": {
@@ -1785,11 +1638,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 74,
             "enabled": true
         },
         {
-            "id": 79,
             "url": "/case_studies/table-tennis-england.html",
             "match_url": "/case_studies/table-tennis-england.html",
             "match_data": {
@@ -1809,11 +1660,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 75,
             "enabled": true
         },
         {
-            "id": 80,
             "url": "/category/case-study.html",
             "match_url": "/category/case-study.html",
             "match_data": {
@@ -1833,11 +1682,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 76,
             "enabled": true
         },
         {
-            "id": 81,
             "url": "/category/community-update.html",
             "match_url": "/category/community-update.html",
             "match_data": {
@@ -1857,11 +1704,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 77,
             "enabled": true
         },
         {
-            "id": 82,
             "url": "/category/opinion.html",
             "match_url": "/category/opinion.html",
             "match_data": {
@@ -1881,11 +1726,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 78,
             "enabled": true
         },
         {
-            "id": 83,
             "url": "/champions/alex.html",
             "match_url": "/champions/alex.html",
             "match_data": {
@@ -1905,11 +1748,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 79,
             "enabled": true
         },
         {
-            "id": 84,
             "url": "/champions/craig.html",
             "match_url": "/champions/craig.html",
             "match_data": {
@@ -1929,11 +1770,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 80,
             "enabled": true
         },
         {
-            "id": 85,
             "url": "/champions/emma-robinson.html",
             "match_url": "/champions/emma-robinson.html",
             "match_data": {
@@ -1953,11 +1792,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 81,
             "enabled": true
         },
         {
-            "id": 86,
             "url": "/champions/gemma.html",
             "match_url": "/champions/gemma.html",
             "match_data": {
@@ -1977,11 +1814,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 82,
             "enabled": true
         },
         {
-            "id": 87,
             "url": "/champions/hazel.html",
             "match_url": "/champions/hazel.html",
             "match_data": {
@@ -2001,11 +1836,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 83,
             "enabled": true
         },
         {
-            "id": 88,
             "url": "/champions/jade.html",
             "match_url": "/champions/jade.html",
             "match_data": {
@@ -2025,11 +1858,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 84,
             "enabled": true
         },
         {
-            "id": 89,
             "url": "/champions/lawrie-baker.html",
             "match_url": "/champions/lawrie-baker.html",
             "match_data": {
@@ -2049,11 +1880,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 85,
             "enabled": true
         },
         {
-            "id": 90,
             "url": "/champions/nathan.html",
             "match_url": "/champions/nathan.html",
             "match_data": {
@@ -2073,11 +1902,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 86,
             "enabled": true
         },
         {
-            "id": 91,
             "url": "/champions/paul.html",
             "match_url": "/champions/paul.html",
             "match_data": {
@@ -2097,11 +1924,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 87,
             "enabled": true
         },
         {
-            "id": 92,
             "url": "/champions/rachel.html",
             "match_url": "/champions/rachel.html",
             "match_data": {
@@ -2121,11 +1946,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 88,
             "enabled": true
         },
         {
-            "id": 93,
             "url": "/community-members/",
             "match_url": "/community-members",
             "match_data": {
@@ -2145,11 +1968,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 89,
             "enabled": true
         },
         {
-            "id": 94,
             "url": "/community/",
             "match_url": "/community",
             "match_data": {
@@ -2169,11 +1990,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 90,
             "enabled": true
         },
         {
-            "id": 95,
             "url": "/community/toolkit.html",
             "match_url": "/community/toolkit.html",
             "match_data": {
@@ -2193,11 +2012,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 91,
             "enabled": true
         },
         {
-            "id": 96,
             "url": "/developer/",
             "match_url": "/developer",
             "match_data": {
@@ -2217,11 +2034,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 92,
             "enabled": true
         },
         {
-            "id": 97,
             "url": "/e-learning",
             "match_url": "/e-learning",
             "match_data": {
@@ -2241,11 +2056,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 93,
             "enabled": true
         },
         {
-            "id": 98,
             "url": "/faqs.html",
             "match_url": "/faqs.html",
             "match_data": {
@@ -2265,11 +2078,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 94,
             "enabled": true
         },
         {
-            "id": 99,
             "url": "/getting-started/",
             "match_url": "/getting-started",
             "match_data": {
@@ -2289,11 +2100,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 95,
             "enabled": true
         },
         {
-            "id": 100,
             "url": "/how-it-works/",
             "match_url": "/how-it-works",
             "match_data": {
@@ -2313,11 +2122,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 96,
             "enabled": true
         },
         {
-            "id": 101,
             "url": "/how-to-publish-your-data/",
             "match_url": "/how-to-publish-your-data",
             "match_data": {
@@ -2337,11 +2144,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 97,
             "enabled": true
         },
         {
-            "id": 102,
             "url": "/join-partner/",
             "match_url": "/join-partner",
             "match_data": {
@@ -2361,11 +2166,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 98,
             "enabled": true
         },
         {
-            "id": 103,
             "url": "/join/",
             "match_url": "/join",
             "match_data": {
@@ -2385,11 +2188,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 99,
             "enabled": true
         },
         {
-            "id": 105,
             "url": "^/members(.*)",
             "match_url": "regex",
             "match_data": {
@@ -2409,11 +2210,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 101,
             "enabled": true
         },
         {
-            "id": 204,
             "url": "/our-vision/",
             "match_url": "/our-vision",
             "match_data": {
@@ -2433,11 +2232,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 200,
             "enabled": true
         },
         {
-            "id": 214,
             "url": "^/startups(.*)",
             "match_url": "regex",
             "match_data": {
@@ -2457,11 +2254,9 @@
             "title": "",
             "regex": true,
             "group_id": 1,
-            "position": 210,
             "enabled": true
         },
         {
-            "id": 215,
             "url": "/open-booking-api/",
             "match_url": "/open-booking-api",
             "match_data": {
@@ -2481,11 +2276,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 211,
             "enabled": true
         },
         {
-            "id": 216,
             "url": "/how-to-do-it/booking-system-table/",
             "match_url": "/how-to-do-it/booking-system-table",
             "match_data": {
@@ -2505,11 +2298,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 212,
             "enabled": true
         },
         {
-            "id": 217,
             "url": "/facility-types/",
             "match_url": "/facility-types",
             "match_data": {
@@ -2529,11 +2320,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 213,
             "enabled": true
         },
         {
-            "id": 219,
             "url": "/index.html",
             "match_url": "/index.html",
             "match_data": {
@@ -2553,11 +2342,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 214,
             "enabled": true
         },
         {
-            "id": 220,
             "url": "/pioneers.html",
             "match_url": "/pioneers.html",
             "match_data": {
@@ -2577,11 +2364,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 108,
             "enabled": true
         },
         {
-            "id": 221,
             "url": "/learn.html",
             "match_url": "/learn.html",
             "match_data": {
@@ -2601,11 +2386,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 108,
             "enabled": true
         },
         {
-            "id": 222,
             "url": "/open-license/",
             "match_url": "/open-license",
             "match_data": {
@@ -2625,11 +2408,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 108,
             "enabled": true
         },
         {
-            "id": 223,
             "url": "/activity-list/",
             "match_url": "/activity-list",
             "match_data": {
@@ -2649,11 +2430,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 109,
             "enabled": true
         },
         {
-            "id": 224,
             "url": "/openactive-enabled-badge-2/",
             "match_url": "/openactive-enabled-badge-2",
             "match_data": {
@@ -2673,11 +2452,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 110,
             "enabled": true
         },
         {
-            "id": 225,
             "url": "/tools/openactive-enabled-badge/",
             "match_url": "/tools/openactive-enabled-badge",
             "match_data": {
@@ -2697,11 +2474,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 111,
             "enabled": true
         },
         {
-            "id": 226,
             "url": "/openactive-enabled-badge/",
             "match_url": "/openactive-enabled-badge",
             "match_data": {
@@ -2721,11 +2496,9 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 112,
             "enabled": true
         },
         {
-            "id": 227,
             "url": "/delivering-openactive",
             "match_url": "/delivering-openactive",
             "match_data": {
@@ -2745,7 +2518,6 @@
             "title": "",
             "regex": false,
             "group_id": 1,
-            "position": 113,
             "enabled": true
         }
     ]
