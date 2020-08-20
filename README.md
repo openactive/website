@@ -32,9 +32,11 @@ To deploy updates to the website redirection configuration, follow the steps bel
 
 ![Clear Cache](guide-images/clear-cache.png)
 
-## Cloudflare Native Redirection
+## Cloudflare Page Rules
 
-There are a few cases where Wordpress Redirection is insufficient, and in these cases Cloudflare redirects have been used. These redirects have been documented below, and this documentation must be updated to match the latest configuration if any changes are made to Cloudflare.
+There are a few cases where Wordpress Redirection is insufficient, and in these cases Cloudflare redirects have been used. These redirects have been documented below, and this documentation must be updated to match the latest configuration for any changes made to Cloudflare.
+
+![Cloudflare Page Rules](cloudflare-page-rules.png)
 
 1. Ensures that the JSON-LD version the OpenActive Activity List is maximally cached, to minimise downtime.
 2. Provides a redirect for all static assets previously hosted at the `www` subdomain (noting that the Wordpress Redirection Plugin does not handle binary static assets such as images).
