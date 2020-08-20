@@ -1,7 +1,6 @@
 {
     "plugin": {
-        "version": "4.8",
-        "date": "Thu, 20 Aug 2020 11:48:25 +0000"
+        "version": "4.8"
     },
     "groups": [
         {
@@ -32,11 +31,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 40,
             "regex": true,
             "group_id": 1,
             "position": 0,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -58,11 +55,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 39,
             "regex": true,
             "group_id": 1,
             "position": 1,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -84,11 +79,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 391,
             "regex": false,
             "group_id": 1,
             "position": 2,
-            "last_access": "June 19, 2020",
             "enabled": true
         },
         {
@@ -110,11 +103,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 210,
             "regex": true,
             "group_id": 1,
             "position": 4,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -136,11 +127,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 161,
             "regex": true,
             "group_id": 1,
             "position": 5,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -162,11 +151,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 4,
             "regex": true,
             "group_id": 1,
             "position": 6,
-            "last_access": "July 27, 2020",
             "enabled": true
         },
         {
@@ -188,11 +175,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 956,
             "regex": true,
             "group_id": 1,
             "position": 7,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -214,11 +199,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 231,
             "regex": true,
             "group_id": 1,
             "position": 8,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -240,11 +223,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 2,
             "regex": true,
             "group_id": 1,
             "position": 9,
-            "last_access": "August 13, 2020",
             "enabled": true
         },
         {
@@ -266,11 +247,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 0,
             "regex": true,
             "group_id": 1,
             "position": 10,
-            "last_access": "-",
             "enabled": true
         },
         {
@@ -292,11 +271,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 397,
             "regex": true,
             "group_id": 1,
             "position": 11,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -318,11 +295,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 958,
             "regex": true,
             "group_id": 1,
             "position": 12,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -344,11 +319,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 69,
             "regex": true,
             "group_id": 1,
             "position": 13,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -370,11 +343,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 252,
             "regex": true,
             "group_id": 1,
             "position": 14,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -396,11 +367,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 0,
             "regex": true,
             "group_id": 1,
             "position": 15,
-            "last_access": "-",
             "enabled": true
         },
         {
@@ -422,11 +391,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 157,
             "regex": true,
             "group_id": 1,
             "position": 16,
-            "last_access": "August 16, 2020",
             "enabled": true
         },
         {
@@ -448,11 +415,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 559,
             "regex": true,
             "group_id": 1,
             "position": 17,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -474,11 +439,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 168,
             "regex": true,
             "group_id": 1,
             "position": 18,
-            "last_access": "August 17, 2020",
             "enabled": true
         },
         {
@@ -500,11 +463,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 35,
             "regex": true,
             "group_id": 1,
             "position": 19,
-            "last_access": "August 11, 2020",
             "enabled": true
         },
         {
@@ -526,11 +487,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 1,
             "regex": true,
             "group_id": 1,
             "position": 20,
-            "last_access": "June 4, 2020",
             "enabled": true
         },
         {
@@ -552,11 +511,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 56,
             "regex": false,
             "group_id": 1,
             "position": 21,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -578,11 +535,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 139,
             "regex": true,
             "group_id": 1,
             "position": 22,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -604,11 +559,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 55,
             "regex": false,
             "group_id": 1,
             "position": 23,
-            "last_access": "August 16, 2020",
             "enabled": true
         },
         {
@@ -630,11 +583,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 5,
             "regex": false,
             "group_id": 1,
             "position": 24,
-            "last_access": "August 3, 2020",
             "enabled": true
         },
         {
@@ -656,11 +607,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 87,
             "regex": false,
             "group_id": 1,
             "position": 25,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -682,11 +631,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 73,
             "regex": false,
             "group_id": 1,
             "position": 26,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -708,11 +655,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 132,
             "regex": false,
             "group_id": 1,
             "position": 27,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -734,11 +679,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 24,
             "regex": false,
             "group_id": 1,
             "position": 28,
-            "last_access": "August 15, 2020",
             "enabled": true
         },
         {
@@ -760,11 +703,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 246,
             "regex": false,
             "group_id": 1,
             "position": 29,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -786,11 +727,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 19,
             "regex": false,
             "group_id": 1,
             "position": 30,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -812,11 +751,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 124,
             "regex": false,
             "group_id": 1,
             "position": 31,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -838,11 +775,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 71,
             "regex": false,
             "group_id": 1,
             "position": 32,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -864,11 +799,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 56,
             "regex": false,
             "group_id": 1,
             "position": 33,
-            "last_access": "August 15, 2020",
             "enabled": true
         },
         {
@@ -890,11 +823,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 87,
             "regex": false,
             "group_id": 1,
             "position": 34,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -916,11 +847,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 106,
             "regex": false,
             "group_id": 1,
             "position": 35,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -942,11 +871,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 46,
             "regex": false,
             "group_id": 1,
             "position": 36,
-            "last_access": "August 12, 2020",
             "enabled": true
         },
         {
@@ -968,11 +895,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 43,
             "regex": false,
             "group_id": 1,
             "position": 37,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -994,11 +919,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 53,
             "regex": false,
             "group_id": 1,
             "position": 38,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1020,11 +943,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 38,
             "regex": false,
             "group_id": 1,
             "position": 39,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -1046,11 +967,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 56,
             "regex": false,
             "group_id": 1,
             "position": 40,
-            "last_access": "August 17, 2020",
             "enabled": true
         },
         {
@@ -1072,11 +991,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 45,
             "regex": false,
             "group_id": 1,
             "position": 41,
-            "last_access": "August 15, 2020",
             "enabled": true
         },
         {
@@ -1098,11 +1015,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 52,
             "regex": false,
             "group_id": 1,
             "position": 42,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1124,11 +1039,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 65,
             "regex": false,
             "group_id": 1,
             "position": 43,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1150,11 +1063,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 79,
             "regex": false,
             "group_id": 1,
             "position": 44,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1176,11 +1087,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 82,
             "regex": false,
             "group_id": 1,
             "position": 45,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1202,11 +1111,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 79,
             "regex": false,
             "group_id": 1,
             "position": 46,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1228,11 +1135,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 49,
             "regex": false,
             "group_id": 1,
             "position": 47,
-            "last_access": "August 11, 2020",
             "enabled": true
         },
         {
@@ -1254,11 +1159,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 44,
             "regex": false,
             "group_id": 1,
             "position": 48,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1280,11 +1183,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 61,
             "regex": false,
             "group_id": 1,
             "position": 49,
-            "last_access": "August 18, 2020",
             "enabled": true
         },
         {
@@ -1306,11 +1207,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 50,
             "regex": false,
             "group_id": 1,
             "position": 50,
-            "last_access": "August 12, 2020",
             "enabled": true
         },
         {
@@ -1332,11 +1231,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 37,
             "regex": false,
             "group_id": 1,
             "position": 51,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -1358,11 +1255,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 43,
             "regex": false,
             "group_id": 1,
             "position": 52,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -1384,11 +1279,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 75,
             "regex": false,
             "group_id": 1,
             "position": 53,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1410,11 +1303,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 52,
             "regex": false,
             "group_id": 1,
             "position": 54,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1436,11 +1327,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 82,
             "regex": false,
             "group_id": 1,
             "position": 55,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1462,11 +1351,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 48,
             "regex": false,
             "group_id": 1,
             "position": 56,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -1488,11 +1375,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 45,
             "regex": false,
             "group_id": 1,
             "position": 57,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -1514,11 +1399,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 73,
             "regex": false,
             "group_id": 1,
             "position": 58,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1540,11 +1423,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 45,
             "regex": false,
             "group_id": 1,
             "position": 59,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -1566,11 +1447,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 75,
             "regex": false,
             "group_id": 1,
             "position": 60,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1592,11 +1471,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 67,
             "regex": false,
             "group_id": 1,
             "position": 61,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -1618,11 +1495,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 67,
             "regex": false,
             "group_id": 1,
             "position": 62,
-            "last_access": "August 17, 2020",
             "enabled": true
         },
         {
@@ -1644,11 +1519,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 58,
             "regex": false,
             "group_id": 1,
             "position": 63,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1670,11 +1543,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 93,
             "regex": false,
             "group_id": 1,
             "position": 64,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -1696,11 +1567,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 57,
             "regex": false,
             "group_id": 1,
             "position": 65,
-            "last_access": "August 12, 2020",
             "enabled": true
         },
         {
@@ -1722,11 +1591,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 49,
             "regex": false,
             "group_id": 1,
             "position": 66,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1748,11 +1615,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 46,
             "regex": false,
             "group_id": 1,
             "position": 67,
-            "last_access": "August 18, 2020",
             "enabled": true
         },
         {
@@ -1774,11 +1639,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 73,
             "regex": false,
             "group_id": 1,
             "position": 68,
-            "last_access": "August 18, 2020",
             "enabled": true
         },
         {
@@ -1800,11 +1663,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 56,
             "regex": false,
             "group_id": 1,
             "position": 69,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1826,11 +1687,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 90,
             "regex": false,
             "group_id": 1,
             "position": 70,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1852,11 +1711,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 55,
             "regex": false,
             "group_id": 1,
             "position": 71,
-            "last_access": "August 18, 2020",
             "enabled": true
         },
         {
@@ -1878,11 +1735,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 97,
             "regex": false,
             "group_id": 1,
             "position": 72,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -1904,11 +1759,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 51,
             "regex": false,
             "group_id": 1,
             "position": 73,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -1930,11 +1783,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 84,
             "regex": false,
             "group_id": 1,
             "position": 74,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -1956,11 +1807,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 60,
             "regex": false,
             "group_id": 1,
             "position": 75,
-            "last_access": "August 18, 2020",
             "enabled": true
         },
         {
@@ -1982,11 +1831,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 20,
             "regex": false,
             "group_id": 1,
             "position": 76,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2008,11 +1855,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 22,
             "regex": false,
             "group_id": 1,
             "position": 77,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2034,11 +1879,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 21,
             "regex": false,
             "group_id": 1,
             "position": 78,
-            "last_access": "August 18, 2020",
             "enabled": true
         },
         {
@@ -2060,11 +1903,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 45,
             "regex": false,
             "group_id": 1,
             "position": 79,
-            "last_access": "August 17, 2020",
             "enabled": true
         },
         {
@@ -2086,11 +1927,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 61,
             "regex": false,
             "group_id": 1,
             "position": 80,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2112,11 +1951,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 31,
             "regex": false,
             "group_id": 1,
             "position": 81,
-            "last_access": "August 13, 2020",
             "enabled": true
         },
         {
@@ -2138,11 +1975,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 53,
             "regex": false,
             "group_id": 1,
             "position": 82,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2164,11 +1999,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 56,
             "regex": false,
             "group_id": 1,
             "position": 83,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -2190,11 +2023,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 55,
             "regex": false,
             "group_id": 1,
             "position": 84,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2216,11 +2047,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 47,
             "regex": false,
             "group_id": 1,
             "position": 85,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -2242,11 +2071,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 51,
             "regex": false,
             "group_id": 1,
             "position": 86,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2268,11 +2095,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 56,
             "regex": false,
             "group_id": 1,
             "position": 87,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2294,11 +2119,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 36,
             "regex": false,
             "group_id": 1,
             "position": 88,
-            "last_access": "August 15, 2020",
             "enabled": true
         },
         {
@@ -2320,11 +2143,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 0,
             "regex": false,
             "group_id": 1,
             "position": 89,
-            "last_access": "-",
             "enabled": true
         },
         {
@@ -2346,11 +2167,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 129,
             "regex": false,
             "group_id": 1,
             "position": 90,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2372,11 +2191,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 90,
             "regex": false,
             "group_id": 1,
             "position": 91,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -2398,11 +2215,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 118,
             "regex": false,
             "group_id": 1,
             "position": 92,
-            "last_access": "August 18, 2020",
             "enabled": true
         },
         {
@@ -2424,11 +2239,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 340,
             "regex": false,
             "group_id": 1,
             "position": 93,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2450,11 +2263,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 111,
             "regex": false,
             "group_id": 1,
             "position": 94,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -2476,11 +2287,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 196,
             "regex": false,
             "group_id": 1,
             "position": 95,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2502,11 +2311,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 173,
             "regex": false,
             "group_id": 1,
             "position": 96,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2528,11 +2335,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 27,
             "regex": false,
             "group_id": 1,
             "position": 97,
-            "last_access": "August 11, 2020",
             "enabled": true
         },
         {
@@ -2554,11 +2359,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 87,
             "regex": false,
             "group_id": 1,
             "position": 98,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -2580,11 +2383,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 220,
             "regex": false,
             "group_id": 1,
             "position": 99,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2606,11 +2407,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 5424,
             "regex": true,
             "group_id": 1,
             "position": 101,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2632,11 +2431,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 75,
             "regex": false,
             "group_id": 1,
             "position": 200,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2658,11 +2455,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 494,
             "regex": true,
             "group_id": 1,
             "position": 210,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2684,11 +2479,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 0,
             "regex": false,
             "group_id": 1,
             "position": 211,
-            "last_access": "-",
             "enabled": true
         },
         {
@@ -2710,11 +2503,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 815,
             "regex": false,
             "group_id": 1,
             "position": 212,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2736,11 +2527,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 5,
             "regex": false,
             "group_id": 1,
             "position": 213,
-            "last_access": "July 6, 2020",
             "enabled": true
         },
         {
@@ -2762,11 +2551,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 105,
             "regex": false,
             "group_id": 1,
             "position": 214,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2788,11 +2575,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 77,
             "regex": false,
             "group_id": 1,
             "position": 108,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2814,11 +2599,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 124,
             "regex": false,
             "group_id": 1,
             "position": 108,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2840,11 +2623,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 81,
             "regex": false,
             "group_id": 1,
             "position": 108,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2866,11 +2647,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 190,
             "regex": false,
             "group_id": 1,
             "position": 109,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2892,11 +2671,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 79,
             "regex": false,
             "group_id": 1,
             "position": 110,
-            "last_access": "August 19, 2020",
             "enabled": true
         },
         {
@@ -2918,11 +2695,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 7,
             "regex": false,
             "group_id": 1,
             "position": 111,
-            "last_access": "August 5, 2020",
             "enabled": true
         },
         {
@@ -2944,11 +2719,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 70,
             "regex": false,
             "group_id": 1,
             "position": 112,
-            "last_access": "August 20, 2020",
             "enabled": true
         },
         {
@@ -2970,11 +2743,9 @@
             },
             "match_type": "url",
             "title": "",
-            "hits": 1,
             "regex": false,
             "group_id": 1,
             "position": 113,
-            "last_access": "July 26, 2020",
             "enabled": true
         }
     ]
