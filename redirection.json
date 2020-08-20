@@ -6,7 +6,7 @@
     "groups": [
         {
             "id": 1,
-            "name": "Redirections",
+            "name": "GitHub Version Controlled Redirections",
             "redirects": 114,
             "module_id": 1,
             "moduleName": "WordPress",
