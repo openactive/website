@@ -11,14 +11,6 @@
             "module_id": 1,
             "moduleName": "WordPress",
             "enabled": true
-        },
-        {
-            "id": 2,
-            "name": "Modified Posts",
-            "redirects": 0,
-            "module_id": 1,
-            "moduleName": "WordPress",
-            "enabled": true
         }
     ],
     "redirects": [
