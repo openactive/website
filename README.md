@@ -3,11 +3,11 @@ This repository contains version-controlled configuration for the [Redirection P
 
 - [`redirection.json`](/redirection.json)
 
+Details of the JSON format are available in the [plugin documentation](https://redirection.me/developer/json-export/).
+
 ## Contribution
 
 To make changes to the redirect configuration of www.openactive.io, simply create a PR for the proposed change to [`redirection.json`](/redirection.json).
-
-Details of the JSON format are available in the [plugin documentation](https://redirection.me/developer/json-export/).
 
 Please use the `"title"` property to describe the reason for the redirect.
 
