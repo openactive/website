@@ -1,2 +1,2 @@
-# website-redirection
-Configuration for the Wordpress Redirection plugin in www.openactive.io
+# Wordpress Redirection plugin configuration
+This repository contains version-controlled configuration for the Redirection Plugin within the www.openactive.io Wordpress website.
