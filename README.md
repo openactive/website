@@ -1,4 +1,4 @@
-# Wordpress Redirection plugin configuration
+# www.openactive.io Wordpress Redirection plugin configuration
 This repository contains version-controlled configuration for the [Redirection Plugin](https://redirection.me/) within the www.openactive.io Wordpress website.
 
 - [JSON Configuration](/redirection.json)
