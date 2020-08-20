@@ -34,14 +34,7 @@ To deploy updates to the website redirection configuration, follow the steps bel
 
 ## Cloudflare Page Rules
 
-There are a few cases where Wordpress Redirection is insufficient, and in these cases Cloudflare redirects have been used. These redirects have been documented below, and this documentation must be updated to match the latest configuration for any changes made to Cloudflare.
-
-![Cloudflare Page Rules](cloudflare-page-rules.png)
-
-1. Ensures that the JSON-LD version the OpenActive Activity List is maximally cached, to minimise downtime.
-2. Provides a redirect for all static assets previously hosted at the `www` subdomain (noting that the Wordpress Redirection Plugin does not handle binary static assets such as images).
-3. Some external websites still reference the `beta.openactive.io` domain, from a previous version of the OpenActive website. This redirect ensures such references still resolve.
-4. The Gladstone instructional video references "openactive.io/programmes" and does not specify `www`. This redirect ensures that this reference wills still resolve.
+There are a few cases where Wordpress Redirection is insufficient, and in these cases Cloudflare redirects have been used. See https://github.com/openactive/cloudflare-page-rules for more information.
 
 ## Cloudflare Reverse Proxy
 
