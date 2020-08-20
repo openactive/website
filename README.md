@@ -5,7 +5,20 @@ This repository contains version-controlled configuration for the [Redirection P
 
 ## Contribution
 
-To make changes to the redirect configuration of www.openactive.io:
+To make changes to the redirect configuration of www.openactive.io, simply propose a PR for the change
 
-1. Propose a PR for the change
-2. When the PR is merged to the `master` branch, the GitHub Actions CI will push the change to the **live** website.
+The `master` branch represents the current state of redirects on the live website.
+
+## Deployment
+
+To deploy updates to the website redirection configuration, follow the steps below:
+
+1. Download [redirection.json](/redirection.json) from the `master` branch.
+2. Delete the "Redirection" group from within the [Groups page of the Wordpress Redirection Plugin](https://www.openactive.io/wp-admin/tools.php?page=redirection.php&sub=groups).
+
+
+3. Import `redirection.json` in the [Import/Export page of the Wordpress Redirection Plugin](https://www.openactive.io/wp-admin/tools.php?page=redirection.php&sub=io)
+
+
+4. Click "Purge All Caches" in the [WP Engine General Settings page](https://www.openactive.io/wp-admin/admin.php?page=wpengine-common).
+
