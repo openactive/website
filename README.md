@@ -13,6 +13,8 @@ Please use the `"title"` property to describe the reason for the redirect.
 
 The `master` branch represents the current state of redirects on the live website.
 
+Note that redirects marked with "DO NOT EDIT" are essential for existing sytems or processes in the OpenActive ecosystem to function, and editing them will have unintended consequences.
+
 ## Deployment
 
 To deploy updates to the website redirection configuration, follow the steps below:
