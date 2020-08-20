@@ -51,7 +51,7 @@
                 "url": "https://openactive.io/accessibility-support$1"
             },
             "match_type": "url",
-            "title": "OpenActive vocabularies were previously hosted at www.openactive.io",
+            "title": "(DO NOT EDIT) OpenActive vocabularies were previously hosted at www.openactive.io",
             "regex": true,
             "group_id": 1,
             "enabled": true
@@ -73,7 +73,7 @@
                 "url": "https://openactive.io/activity-list/activity-list.jsonld"
             },
             "match_type": "url",
-            "title": "OpenActive vocabularies were previously hosted at www.openactive.io",
+            "title": "(DO NOT EDIT) OpenActive vocabularies were previously hosted at www.openactive.io",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -117,7 +117,7 @@
                 "url": "https://openactive.io/dataset-api-discovery$1"
             },
             "match_type": "url",
-            "title": "OpenActive specifications were previously hosted at www.openactive.io",
+            "title": "(DO NOT EDIT) OpenActive specifications were previously hosted at www.openactive.io",
             "regex": true,
             "group_id": 1,
             "enabled": true
@@ -139,7 +139,7 @@
                 "url": "https://openactive.io/modelling-opportunity-data$1"
             },
             "match_type": "url",
-            "title": "OpenActive specifications were previously hosted at www.openactive.io",
+            "title": "(DO NOT EDIT) OpenActive specifications were previously hosted at www.openactive.io",
             "regex": true,
             "group_id": 1,
             "enabled": true
@@ -161,7 +161,7 @@
                 "url": "https://openactive.io/ns-beta$1"
             },
             "match_type": "url",
-            "title": "OpenActive vocabularies were previously hosted at www.openactive.io",
+            "title": "(DO NOT EDIT) OpenActive vocabularies were previously hosted at www.openactive.io",
             "regex": true,
             "group_id": 1,
             "enabled": true
@@ -205,7 +205,7 @@
                 "url": "https://openactive.io/ns-extension$1"
             },
             "match_type": "url",
-            "title": "OpenActive vocabularies were previously hosted at www.openactive.io",
+            "title": "(DO NOT EDIT) OpenActive vocabularies were previously hosted at www.openactive.io",
             "regex": true,
             "group_id": 1,
             "enabled": true
@@ -227,7 +227,7 @@
                 "url": "https://openactive.io/ns$1"
             },
             "match_type": "url",
-            "title": "OpenActive vocabularies were previously hosted at www.openactive.io",
+            "title": "(DO NOT EDIT) OpenActive vocabularies were previously hosted at www.openactive.io",
             "regex": true,
             "group_id": 1,
             "enabled": true
@@ -249,7 +249,7 @@
                 "url": "https://openactive.io/open-booking-api$1"
             },
             "match_type": "url",
-            "title": "OpenActive specifications were previously hosted at www.openactive.io",
+            "title": "(DO NOT EDIT) OpenActive specifications were previously hosted at www.openactive.io",
             "regex": true,
             "group_id": 1,
             "enabled": true
@@ -359,7 +359,7 @@
                 "url": "https://openactive.io/realtime-paged-data-exchange$1"
             },
             "match_type": "url",
-            "title": "OpenActive specifications were previously hosted at www.openactive.io",
+            "title": "(DO NOT EDIT) OpenActive specifications were previously hosted at www.openactive.io",
             "regex": true,
             "group_id": 1,
             "enabled": true
@@ -381,7 +381,7 @@
                 "url": "https://openactive.io/routes$1"
             },
             "match_type": "url",
-            "title": "OpenActive specifications were previously hosted at www.openactive.io",
+            "title": "(DO NOT EDIT) OpenActive specifications were previously hosted at www.openactive.io",
             "regex": true,
             "group_id": 1,
             "enabled": true
@@ -425,7 +425,7 @@
                 "url": "https://openactive.io/test-interface$1"
             },
             "match_type": "url",
-            "title": "OpenActive specifications were previously hosted at www.openactive.io",
+            "title": "(DO NOT EDIT) OpenActive specifications were previously hosted at www.openactive.io",
             "regex": true,
             "group_id": 1,
             "enabled": true
@@ -2317,7 +2317,7 @@
                 "url": "https://openactive.io/facility-types/"
             },
             "match_type": "url",
-            "title": "OpenActive vocabularies were previously hosted at www.openactive.io",
+            "title": "(DO NOT EDIT) OpenActive vocabularies were previously hosted at www.openactive.io",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2427,7 +2427,7 @@
                 "url": "https://openactive.io/activity-list/"
             },
             "match_type": "url",
-            "title": "OpenActive vocabularies were previously hosted at www.openactive.io",
+            "title": "(DO NOT EDIT) OpenActive vocabularies were previously hosted at www.openactive.io",
             "regex": false,
             "group_id": 1,
             "enabled": true
