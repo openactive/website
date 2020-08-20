@@ -7,6 +7,8 @@ This repository contains version-controlled configuration for the [Redirection P
 
 To make changes to the redirect configuration of www.openactive.io, simply propose a PR for the proposed change.
 
+Details of the JSON format are available in the [plugin documentation](https://redirection.me/developer/json-export/).
+
 The `master` branch represents the current state of redirects on the live website.
 
 ## Deployment
