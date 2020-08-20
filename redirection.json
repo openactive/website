@@ -1993,6 +1993,28 @@
             "enabled": true
         },
         {
+            "url": "/w3c-community/",
+            "match_url": "/w3c-community",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://w3c.openactive.io/"
+            },
+            "match_type": "url",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
+            "regex": false,
+            "group_id": 1,
+            "enabled": true
+        },
+        {
             "url": "/community/toolkit.html",
             "match_url": "/community/toolkit.html",
             "match_data": {
