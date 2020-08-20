@@ -16,7 +16,7 @@ To deploy updates to the website redirection configuration, follow the steps bel
 1. Download [redirection.json](/redirection.json) from the `master` branch.
 2. Delete the "https://github.com/openactive/website-redirection/" group from within the [Groups page of the Wordpress Redirection Plugin](https://www.openactive.io/wp-admin/tools.php?page=redirection.php&sub=groups).
 
-![Delete existing redirections](guide-images/delete-redirects.png)
+![Delete existing redirections](guide-images/delete-group.png)
 
 3. Import `redirection.json` in the [Import/Export page of the Wordpress Redirection Plugin](https://www.openactive.io/wp-admin/tools.php?page=redirection.php&sub=io)
 
