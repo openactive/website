@@ -491,7 +491,7 @@
                 "url": "https://blog.openactive.io"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -513,7 +513,29 @@
                 "url": "/what-you-can-do/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
+            "regex": false,
+            "group_id": 1,
+            "enabled": true
+        },
+        {
+            "url": "/use-data.html",
+            "match_url": "/use-data.html",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/what-you-can-do/use-open-data/"
+            },
+            "match_type": "url",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -535,7 +557,7 @@
                 "url": "/join/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website. ",
+            "title": "Ensure that old external links still resolve to a useful location within the current website. ",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -557,7 +579,7 @@
                 "url": "/join/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -579,7 +601,7 @@
                 "url": "/about/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -601,7 +623,7 @@
                 "url": "/about/digital-guiding-principles/"
             },
             "match_type": "url",
-            "title": "This is an SEO redirect to rename a page in the current version of the website",
+            "title": "SEO redirect to rename a page in the current version of the website",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -623,7 +645,7 @@
                 "url": "/about/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -645,7 +667,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This is an SEO redirect to rename a page in the current version of the website",
+            "title": "SEO redirect to rename a page in the current version of the website",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -667,7 +689,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -689,7 +711,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -711,7 +733,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -733,7 +755,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -755,7 +777,7 @@
                 "url": "/booking_systems/bookwhen/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -777,7 +799,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -799,7 +821,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -821,7 +843,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -843,7 +865,7 @@
                 "url": "/booking_systems/classfinder/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -865,7 +887,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -887,7 +909,7 @@
                 "url": "/booking_systems/clubspark/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -909,7 +931,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -931,7 +953,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -953,7 +975,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -975,7 +997,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -997,7 +1019,7 @@
                 "url": "/booking_systems/gladstone/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1019,7 +1041,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1041,7 +1063,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1063,7 +1085,7 @@
                 "url": "/booking_systems/legend/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1085,7 +1107,7 @@
                 "url": "/booking_systems/makesweat/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1107,7 +1129,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1129,7 +1151,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1151,7 +1173,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1173,7 +1195,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1195,7 +1217,7 @@
                 "url": "/booking_systems/open-sessions/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1217,7 +1239,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1239,7 +1261,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1261,7 +1283,7 @@
                 "url": "/booking_systems/playwaze/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1283,7 +1305,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1305,7 +1327,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1327,7 +1349,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1349,7 +1371,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1371,7 +1393,7 @@
                 "url": "/booking_systems/sportsuite/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1393,7 +1415,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1415,7 +1437,7 @@
                 "url": "/booking_systems/teamup/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1437,7 +1459,7 @@
                 "url": "/booking_systems/upshot/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1459,7 +1481,7 @@
                 "url": "/booking_systems/views/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1481,7 +1503,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1503,7 +1525,7 @@
                 "url": "/how-to-do-it/booking-system-table/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1525,7 +1547,7 @@
                 "url": "https://blog.openactive.io/activenewham-becomes-the-first-uk-leisure-trust-to-publish-open-data-406773199d89"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1547,7 +1569,7 @@
                 "url": "https://blog.openactive.io/case-study-get-active-london-using-open-data-to-create-a-people-and-publisher-centred-activity-46a69a1f193c"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1569,7 +1591,7 @@
                 "url": "https://blog.openactive.io/case-study-mylocalpitch-promoting-availability-at-local-sports-venues-through-data-sharing-f602893a9a73"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1591,7 +1613,7 @@
                 "url": "https://blog.openactive.io/using-open-data-to-mobilise-outdoor-activities-recruit-new-customers-and-improve-competition-50c6652b2f30"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1613,7 +1635,7 @@
                 "url": "https://blog.openactive.io/case-study-mylocalpitch-promoting-availability-at-local-sports-venues-through-data-sharing-f602893a9a73"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1635,7 +1657,7 @@
                 "url": "https://blog.openactive.io/table-tennis-england-reaps-early-open-data-benefits-8bec8f13adae"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1657,7 +1679,7 @@
                 "url": "https://blog.openactive.io"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1679,7 +1701,7 @@
                 "url": "https://blog.openactive.io"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1701,7 +1723,7 @@
                 "url": "https://blog.openactive.io"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1723,7 +1745,7 @@
                 "url": "/about/openactive-champions/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1745,7 +1767,7 @@
                 "url": "/about/openactive-champions/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1767,7 +1789,7 @@
                 "url": "/about/openactive-champions/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1789,7 +1811,7 @@
                 "url": "/about/openactive-champions/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1811,7 +1833,7 @@
                 "url": "/about/openactive-champions/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1833,7 +1855,7 @@
                 "url": "/about/openactive-champions/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1855,7 +1877,7 @@
                 "url": "/about/openactive-champions/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1877,7 +1899,7 @@
                 "url": "/about/openactive-champions/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1899,7 +1921,7 @@
                 "url": "/about/openactive-champions/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1921,7 +1943,7 @@
                 "url": "/about/openactive-champions/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1943,7 +1965,7 @@
                 "url": "/about/our-members/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1965,7 +1987,7 @@
                 "url": "/about/our-members/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -1987,7 +2009,7 @@
                 "url": "/about/openactive-champions/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2009,7 +2031,7 @@
                 "url": "/developers/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2031,7 +2053,7 @@
                 "url": "/e-learning/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2053,7 +2075,7 @@
                 "url": "/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2075,7 +2097,7 @@
                 "url": "/what-you-can-do/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2097,7 +2119,7 @@
                 "url": "/understanding-open-data/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2119,7 +2141,7 @@
                 "url": "/how-to-do-it/how-to-open-your-data/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2141,7 +2163,7 @@
                 "url": "/about/our-members/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2163,7 +2185,7 @@
                 "url": "/about/our-members/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2185,7 +2207,7 @@
                 "url": "/about/our-members/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": true,
             "group_id": 1,
             "enabled": true
@@ -2207,7 +2229,7 @@
                 "url": "/about/our-vision/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2229,7 +2251,7 @@
                 "url": "/about/our-members/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": true,
             "group_id": 1,
             "enabled": true
@@ -2251,7 +2273,7 @@
                 "url": "/what-is-open-booking/"
             },
             "match_type": "url",
-            "title": "This is an SEO redirect to rename a page in the current version of the website",
+            "title": "SEO redirect to rename a page in the current version of the website",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2273,7 +2295,7 @@
                 "url": "/how-to-do-it/system-provider-guide/"
             },
             "match_type": "url",
-            "title": "This is an SEO redirect to rename a page in the current version of the website",
+            "title": "SEO redirect to rename a page in the current version of the website",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2317,7 +2339,7 @@
                 "url": "/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2339,7 +2361,7 @@
                 "url": "/about/our-members/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2361,7 +2383,7 @@
                 "url": "/e-learning/"
             },
             "match_type": "url",
-            "title": "This redirect ensures that external links to the website dating back to its previous version still resolve to a useful location within the current website.",
+            "title": "Ensure that old external links still resolve to a useful location within the current website.",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2383,7 +2405,7 @@
                 "url": "/open-licence/"
             },
             "match_type": "url",
-            "title": "This is an SEO redirect to rename a page in the current version of the website",
+            "title": "SEO redirect to rename a page in the current version of the website",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2427,7 +2449,7 @@
                 "url": "/using-openactive-enabled-badge/"
             },
             "match_type": "url",
-            "title": "This is an SEO redirect to rename a page in the current version of the website",
+            "title": "SEO redirect to rename a page in the current version of the website",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2449,7 +2471,7 @@
                 "url": "/using-openactive-enabled-badge/"
             },
             "match_type": "url",
-            "title": "This is an SEO redirect to rename a page in the current version of the website",
+            "title": "SEO redirect to rename a page in the current version of the website",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2471,7 +2493,7 @@
                 "url": "/using-openactive-enabled-badge/"
             },
             "match_type": "url",
-            "title": "This is an SEO redirect to rename a page in the current version of the website",
+            "title": "SEO redirect to rename a page in the current version of the website",
             "regex": false,
             "group_id": 1,
             "enabled": true
@@ -2493,7 +2515,7 @@
                 "url": "https://openactive.io/delivering-openactive/"
             },
             "match_type": "url",
-            "title": "Ensures that accidentally including www will still resolve the Short URL for OpenActive Contract Requirements document (https://github.com/openactive/delivering-openactive)",
+            "title": "Ensures that accidentally including www will still resolve the Short URL for OpenActive Contract Requirements document (see https://github.com/openactive/delivering-openactive)",
             "regex": false,
             "group_id": 1,
             "enabled": true
