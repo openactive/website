@@ -334,10 +334,10 @@
             "action_code": 301,
             "action_type": "url",
             "action_data": {
-                "url": "https://openactive.io/public-openactive-w3c$1"
+                "url": "https://openactive.io/public-chat$1"
             },
             "match_type": "url",
-            "title": "The OpenActive Slack documentation was previously hosted at www.openactive.io",
+            "title": "The OpenActive Slack documentation was previously hosted at www.openactive.io/public-openactive-w3c",
             "regex": true,
             "group_id": 1,
             "enabled": true
