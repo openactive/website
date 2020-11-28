@@ -268,10 +268,10 @@
             "action_code": 301,
             "action_type": "url",
             "action_data": {
-                "url": "https://openactive.io/openactive-w3c-cg$1"
+                "url": "https://openactive.io/w3c-community-group$1"
             },
             "match_type": "url",
-            "title": "The OpenActive W3C Group charter documentation were previously hosted at www.openactive.io",
+            "title": "The OpenActive W3C Group charter documentation were previously hosted at www.openactive.io/openactive-w3c-cg",
             "regex": true,
             "group_id": 1,
             "enabled": true
