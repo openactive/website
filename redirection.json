@@ -321,6 +321,28 @@
             "enabled": true
         },
         {
+            "url": "^/les-mills-programme-page-example(.*)",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://openactive.io/les-mills-programme-page-example$1"
+            },
+            "match_type": "url",
+            "title": "Les Mills Programme Page Exmaple was previously hosted at www.openactive.io",
+            "regex": true,
+            "group_id": 1,
+            "enabled": true
+        },
+        {
             "url": "^/public-openactive-w3c(.*)",
             "match_url": "regex",
             "match_data": {
